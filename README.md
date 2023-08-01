@@ -1,6 +1,5 @@
-[![Logo](https://rare-gallery.com/thumbs/349774-4k-wallpaper.jpg)]
-
 <h1 align="center">Hey welcome, I'm Sergio Correa</h1>
+<h3 align="center">A progressive full-stack web developer, always lookign to improve and grow</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiofcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="sergiofcorrea" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiofcorrea" alt="sergiofcorrea" /></a> </p>
